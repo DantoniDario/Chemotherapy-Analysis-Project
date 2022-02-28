@@ -1,4 +1,4 @@
-# Mixed_Linear_Model
+# Chemotherapy Analysis Project
 The dataset ‘Chemotherapy.csv’ contains the following information:
 
 • Patient: a unique patient id,
